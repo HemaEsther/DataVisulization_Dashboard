@@ -127,10 +127,10 @@ DataVisulization/
 **Frontend:**
 ```bash
 cd visual-dashboard
-npm run build
+npm run dev
 ```
 
 The built files will be in `visual-dashboard/dist`
 
 ### Backend scripts
-- `npm start` - Start server with nodemon (auto-restart on changes)
+- `npm start` - Start server with nodemon
